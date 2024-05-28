@@ -1,0 +1,67 @@
+.child{
+    padding:10px;
+    background-color: grey;
+}
+.main{
+    padding:10px;
+    background-color: yellowgreen;
+    position:absolute;
+    left:90%;
+    top:30px;
+}
+.parent{
+height:100vh;
+background-color: bisque;
+}
+.classemem{
+    padding:100px;
+    height:10vh;
+    background-color: black;
+    color: aqua;
+    
+}
+.name1{
+    position:absolute;
+    top:20%;
+    left:30%;
+}
+.name2{
+    position:absolute;
+    top:30%;
+    left:40%;
+}
+.name3{
+    position:absolute;
+    top:15%;
+    left:40%;
+}
+.name4{
+    position:absolute;
+    top:20%;
+    left:50%;
+}
+.name5{
+    position:absolute;
+    top:20%;
+    left:40%;
+}
+.name6{
+    position:absolute;
+    top:25%;
+    left:50%;
+}
+.name7{
+    position:absolute;
+    top:25%;
+    left:40%;
+}
+.name8{
+    position:absolute;
+    top:25%;
+    left:30%;
+}
+
+.parent2{
+    height: 50vh;
+}
+
